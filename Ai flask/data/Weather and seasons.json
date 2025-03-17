@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What does 'hace calor' mean in English?",
+      "options": ["It's warm", "It's hot", "It's cold"],
+      "answer": "It's hot"
+    },
+    {
+      "question": "What does the verb 'hay' mean in English?",
+      "options": ["To have", "To eat", "There is"],
+      "answer": "There is"
+    },
+    {
+      "question": "Which of the following sentences is correct?",
+      "options": ["Hay llueve", "Llueve", "Está llueve"],
+      "answer": "Llueve"
+    },
+    {
+      "question": "How do you say 'Autumn' in Spanish?",
+      "options": ["Otoño", "Primavera", "Verano"],
+      "answer": "Otoño"
+    }
+  ]
+}

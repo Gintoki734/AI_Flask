@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "What does 'abrigo' mean in English?",
+      "options": ["Coat", "Hat", "Jumper"],
+      "answer": "Coat"
+    },
+    {
+      "question": "What does 'bufanda' mean in English?",
+      "options": ["Coat", "Scarf", "T-shirt"],
+      "answer": "Scarf"
+    },
+    {
+      "question": "What does 'Llevo unos pantalones' mean in English?",
+      "options": [
+        "I wear some shoes",
+        "I wear a jumper",
+        "I wear some trousers"
+      ],
+      "answer": "I wear some trousers"
+    },
+    {
+      "question": "How do you say 'She wears a jumper' in Spanish?",
+      "options": ["Lleva un jersey", "Lleva una camiseta", "Lleva una gorra"],
+      "answer": "Lleva un jersey"
+    }
+  ]
+}

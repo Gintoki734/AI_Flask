@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "How do you say 'a dog' in Spanish?",
+      "options": ["Un gato", "Un perro", "Una serpiente"],
+      "answer": "Un perro"
+    },
+    {
+      "question": "How do you say 'an elephant' in Spanish?",
+      "options": ["Un elefante", "Un conejo", "Un caballo"],
+      "answer": "Un elefante"
+    },
+    {
+      "question": "How do you say 'intelligent' in Spanish?",
+      "options": ["Feroz", "Inteligente", "Simpático"],
+      "answer": "Inteligente"
+    },
+    {
+      "question": "What does the verb 'tener' mean in English?",
+      "options": ["To have", "To be", "To like"],
+      "answer": "To have"
+    }
+  ]
+}

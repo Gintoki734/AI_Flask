@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "How do you say 'a sister' in Spanish?",
+      "options": ["Una madre", "Un hermano", "Una hermana"],
+      "answer": "Una hermana"
+    },
+    {
+      "question": "How do you say 'an uncle' in Spanish?",
+      "options": ["Una tía", "Un tío", "Un abuelo"],
+      "answer": "Un tío"
+    },
+    {
+      "question": "What does 'Tengo una hermana' mean in English?",
+      "options": ["I have a sister", "I have a brother", "I have an uncle"],
+      "answer": "I have a sister"
+    },
+    {
+      "question": "What does 'Mi madre se llama Emma' mean in English?",
+      "options": [
+        "My aunt is called Emma",
+        "My sister is called Emma",
+        "My mother is called Emma"
+      ],
+      "answer": "My mother is called Emma"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "How do you say 'yellow' in Spanish?",
+      "options": ["naranja", "amarillo", "azul"],
+      "answer": "amarillo"
+    },
+    {
+      "question": "How do you say 'brown' in Spanish?",
+      "options": ["marrón", "morado", "verde"],
+      "answer": "marrón"
+    },
+    {
+      "question": "What does 'Mi color preferido es...' mean in English?",
+      "options": [
+        "The colour I don't like is...",
+        "My favourite colour is...",
+        "The colour I like is..."
+      ],
+      "answer": "My favourite colour is..."
+    },
+    {
+      "question": "What is the correct way to say 'a red skirt'?",
+      "options": ["una falda roja", "una roja falda"],
+      "answer": "una falda roja"
+    }
+  ]
+}

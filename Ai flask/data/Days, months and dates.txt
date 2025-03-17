@@ -1,0 +1,126 @@
+You can say and write the date in Spanish everyday in class. This is a great way to practise and develop your Spanish skills!
+
+## Days
+
+| Spanish    | English    |
+|------------|------------|
+| lunes      | Monday     |
+| martes     | Tuesday    |
+| miércoles  | Wednesday  |
+| jueves     | Thursday   |
+| viernes    | Friday     |
+| sábado     | Saturday   |
+| domingo    | Sunday     |
+
+*(Tip: The days of the week in Spanish all start with a small letter instead of a capital like in English.)*
+
+### Saying what day it is
+To say 'Today it is…' you can use the phrase:
+
+**Hoy es el…** + the day
+
+Examples:
+
+- *Hoy es el jueves* – Today it is Thursday
+- *Hoy es el viernes* – Today it is Friday
+
+![Image](/static/4b.png)
+
+### Asking what day it is
+To ask 'What day is it today?' you can say:
+
+**¿Qué día es hoy?**
+
+## Months
+
+| Spanish      | English     |
+|--------------|-------------|
+| enero        | January     |
+| febrero      | February    |
+| marzo        | March       |
+| abril        | April       |
+| mayo         | May         |
+| junio        | June        |
+| julio        | July        |
+| agosto       | August      |
+| septiembre   | September   |
+| octubre      | October     |
+| noviembre    | November    |
+| diciembre    | December    |
+
+*(Tip: The months in Spanish follow the same rule as the days and start with a small letter instead of a capital.)*
+
+### Saying what month it is
+
+![Image](/static/7b.png)
+
+To say 'It is…' you can use the phrase:
+
+**Es …**
+
+Examples:
+
+- *Es julio* – It's July
+- *Es noviembre* – It's November
+
+### Asking what month it is
+To ask 'What month is it?' you can say:
+
+**¿Qué mes es?**
+
+## Dates
+
+### Giving the date today
+To say 'Today is…', you can use the phrase:
+
+**Hoy es** + day + number + month
+
+Examples:
+
+- *Hoy es martes el cinco de marzo* – Today it is Tuesday the 5th of March
+- *Hoy es sábado el once de junio* – Today it is Saturday the 11th of June
+
+### Asking the date today
+To ask 'What is the date today?' you can say:
+
+**¿Cuál es la fecha hoy?**
+
+(*la fecha* means 'the date' in Spanish.)
+
+![Image](/static/7c.png)
+
+### Did you know?
+
+To say 'the 1st', use **el primero**. This is the only **ordinal number** you use in dates.
+
+Example:
+
+- *Hoy es miércoles el primero de octubre* – Today is Wednesday the 1st of October
+
+For all other dates, use **cardinal numbers** (e.g., two, three, four, five).
+
+Example:
+
+- *Hoy es lunes el dos de diciembre* – Today is Monday the 2nd of December
+
+## Birthdays
+
+### Saying your birthday
+To say 'My birthday is…', use the phrase:
+
+**Mi cumpleaños es el…** + number + month
+
+Examples:
+
+- *Mi cumpleaños es el dos de mayo* – My birthday is the second of May
+- *Mi cumpleaños es el doce de diciembre* – My birthday is the 12th of December
+
+![Image](/static/2b.png)
+
+### Asking someone's birthday
+To ask someone 'When is your birthday?' you can say:
+
+**¿Cuándo es tu cumpleaños?**
+
+(*cuándo* means 'when.')
+

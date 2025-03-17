@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "What does ‘el cine’ mean in English?",
+      "options": ["The cinema", "The shop", "The park"],
+      "answer": "The cinema"
+    },
+    {
+      "question": "What does ‘Voy al colegio’ mean in English?",
+      "options": [
+        "I am going home",
+        "I am going to school",
+        "I am going to the cinema"
+      ],
+      "answer": "I am going to school"
+    },
+    {
+      "question": "Which of the following words starts with a soft ‘b’ sound?",
+      "options": ["Vacaciones", "Parque", "Autobús"],
+      "answer": "Autobús"
+    },
+    {
+      "question": "Which of the following sentences is correct?",
+      "options": ["Voy a la cine", "Voy el cine", "Voy al cine"],
+      "answer": "Voy al cine"
+    }
+  ]
+}

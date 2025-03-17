@@ -1,0 +1,160 @@
+Knowing numbers and counting in Spanish is a really useful skill. In this section, you can learn more about numbers and numeracy in Spanish.
+
+## Numbers 1 - 20
+
+| Number | Spanish     | Number | Spanish      |
+|--------|-------------|--------|--------------|
+| 1      | uno         | 11     | once         |
+| 2      | dos         | 12     | doce         |
+| 3      | tres        | 13     | trece        |
+| 4      | cuatro      | 14     | catorce      |
+| 5      | cinco       | 15     | quince       |
+| 6      | seis        | 16     | dieciséis    |
+| 7      | siete       | 17     | diecisiete   |
+| 8      | ocho        | 18     | dieciocho    |
+| 9      | nueve       | 19     | diecinueve   |
+| 10     | diez        | 20     | veinte       |
+
+## Numbers 20 - 30
+
+| Number | Spanish       |
+|--------|---------------|
+| 20     | veinte        |
+| 21     | veintiuno     |
+| 22     | veintidós     |
+| 23     | veintitrés    |
+| 24     | veinticuatro  |
+| 25     | veinticinco   |
+| 26     | veintiséis    |
+| 27     | veintisiete   |
+| 28     | veintiocho    |
+| 29     | veintinueve   |
+| 30     | treinta       |
+
+## Numbers 30 to 50
+
+| Number | Spanish         |
+|--------|-----------------|
+| 30     | treinta         |
+| 31     | treinta y uno   |
+| 32     | treinta y dos   |
+| 33     | treinta y tres  |
+| 34     | treinta y cuatro|
+| 35     | treinta y cinco |
+| 36     | treinta y seis  |
+| 37     | treinta y siete |
+| 38     | treinta y ocho  |
+| 39     | treinta y nueve |
+| 40     | cuarenta        |
+| 41     | cuarenta y uno  |
+| 42     | cuarenta y dos  |
+| 43     | cuarenta y tres |
+| 44     | cuarenta y cuatro|
+| 45     | cuarenta y cinco|
+| 46     | cuarenta y seis |
+| 47     | cuarenta y siete|
+| 48     | cuarenta y ocho |
+| 49     | cuarenta y nueve|
+| 50     | cincuenta       |
+
+## Numbers 50 to 100
+
+| Number | Spanish            |
+|--------|--------------------|
+| 50     | cincuenta          |
+| 51     | cincuenta y uno    |
+| 52     | cincuenta y dos    |
+| 53     | cincuenta y tres   |
+| 60     | sesenta            |
+| 61     | sesenta y uno      |
+| 62     | sesenta y dos      |
+| 63     | sesenta y tres     |
+| 70     | setenta            |
+| 71     | setenta y uno      |
+| 72     | setenta y dos      |
+| 73     | setenta y tres     |
+| 80     | ochenta            |
+| 81     | ochenta y uno      |
+| 82     | ochenta y dos      |
+| 83     | ochenta y tres     |
+| 90     | noventa            |
+| 91     | noventa y uno      |
+| 92     | noventa y dos      |
+| 93     | noventa y tres     |
+| 100    | cien               |
+
+## Talking about age
+
+'I am … years old'
+
+In Spanish you use the verb 'to have' (tener) to say how old you are.
+
+**Tengo… años** - I am… years old
+
+(This literally means 'I have… years')
+
+![Image](/static/1b.png)
+
+- Tengo siete años - I am seven years old
+- Tengo ocho años - I am eight years old
+- Tengo nueve años - I am nine years old
+- Tengo diez años - I am ten years old
+- Tengo once años - I am eleven years old
+
+## Calculations
+
+Once you’ve learned how to count in Spanish, you can extend your knowledge and skills by trying out some simple calculations!
+
+| Spanish              | English          |
+|----------------------|------------------|
+| más                  | plus             |
+| menos                | minus            |
+| multiplicado por     | multiplied by    |
+| dividido por         | divided by       |
+| es igual a           | equals           |
+
+![Image](/static/6b.png)
+
+- cuatro más cuatro es igual a ocho - 4 + 4 = 8 (four plus four equals eight)
+- doce menos cuatro es igual a ocho - 12 - 4 = 8 (twelve minus four equals eight)
+- dieciséis dividido por dos es igual a ocho - 16 ÷ 2 = 8 (sixteen divided by two equals eight)
+- cuatro multiplicado por dos es igual a ocho - 4 × 2 = 8 (four multiplied by two equals eight)
+
+How would you say these calculations in Spanish?
+
+1 + 1 = 2
+
+**uno más uno es igual a dos**
+
+5 - 1 = 4
+
+**cinco menos uno es igual a cuatro**
+
+10 ÷ 2 = 5
+
+**diez dividido por dos es igual a cinco**
+
+## Ordinal numbers
+
+Ordinal numbers are how we say 1st, 2nd, 3rd etc.
+
+- el primero - the 1st
+- el segundo - the 2nd
+- el tercero - the 3rd
+- el cuarto - the 4th
+- el quinto - the 5th
+
+**Tip**: The only one of these we use for dates in Spanish is **el primero** ('the 1st').
+
+Example:
+
+- El primero de mayo = The 1st of May
+
+Other dates just use cardinal numbers (2, 12, 23 etc)
+
+Examples:
+
+- El dos de diciembre = The 2nd of December
+- El doce de agosto = The 12th of August
+
+![Image](/static/6c.png)

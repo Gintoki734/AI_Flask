@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "The word for 'a pencil' is:",
+      "options": ["Un lápiz", "Una goma", "Un boli"],
+      "answer": "Un lápiz"
+    },
+    {
+      "question": "¿Tienes unas tijeras? means:",
+      "options": [
+        "Do you have paper?",
+        "Do you have a pen?",
+        "Do you have scissors?"
+      ],
+      "answer": "Do you have scissors?"
+    },
+    {
+      "question": "The word for 'music' is:",
+      "options": ["La música", "Las matemáticas", "La informática"],
+      "answer": "La música"
+    },
+    {
+      "question": "How would you say 'My favourite subject is history'?",
+      "options": [
+        "Hoy tengo a la historia",
+        "Hoy tengo la educación física",
+        "Mi asignatura favorita es la historia"
+      ],
+      "answer": "Mi asignatura favorita es la historia"
+    }
+  ]
+}

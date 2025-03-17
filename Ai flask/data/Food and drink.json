@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "How do you say 'bread' in Spanish?",
+      "options": ["El pan", "La pizza", "El pescado"],
+      "answer": "El pan"
+    },
+    {
+      "question": "How do you say 'vegetables' in Spanish?",
+      "options": ["Las verduras", "Las frutas", "Las patatas fritas"],
+      "answer": "Las verduras"
+    },
+    {
+      "question": "How do you say 'I like' in Spanish?",
+      "options": ["Quisiera", "Comer", "Me gusta"],
+      "answer": "Me gusta"
+    },
+    {
+      "question": "Which of the following sentences means ‘I want ice cream’ in English?",
+      "options": ["Me gusta el helado", "Quisiera helado", "El helado"],
+      "answer": "Quisiera helado"
+    }
+  ]
+}

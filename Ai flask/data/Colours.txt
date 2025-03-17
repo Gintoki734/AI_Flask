@@ -1,0 +1,105 @@
+Learn all about places to visit and talking about how to get to them in Spanish with these handy words and phrases.
+
+## Colours in Spanish
+
+Colours are **adjectives**. They can help you describe things, such as clothes.
+
+| Spanish   | English  |
+|-----------|----------|
+| blanco    | white    |
+| negro     | black    |
+| rojo      | red      |
+| amarillo  | yellow   |
+| morado    | purple   |
+| marrón    | brown    |
+| azul      | blue     |
+| verde     | green    |
+| gris      | grey     |
+| naranja   | orange   |
+| rosa      | pink     |
+
+### Favourite colours
+
+#### Saying what your favourite colour is
+
+To say 'My favourite colour is…' use the phrase:
+
+**Mi color preferido es el…** + the colour
+
+Examples:
+- Mi color preferido es el rojo - My favourite colour is red
+- Mi color preferido es el negro - My favourite colour is black
+
+![Image](/static/8a.png)
+
+#### Asking what someone's favourite colour is
+
+To ask 'What is your favourite colour?' you can say:
+
+**¿Cuál es tu color preferido?**
+
+### Describing things
+
+In Spanish, all nouns are either masculine or feminine, as well as singular (when there is only one thing) or plural (when there is more than one of something).
+
+This means an adjective (like a colour) needs to match the noun it is describing, and it does this by changing its spelling.
+
+Here is a table of how colours change:
+
+| Masculine singular (un) | Feminine singular (una) | Masculine plural (unos) | Feminine plural (unas) | English  |
+|-------------------------|-------------------------|-------------------------|------------------------|----------|
+| negro                   | negra                   | negros                  | negras                 | black    |
+| blanco                  | blanca                  | blancos                 | blancas                | white    |
+| rojo                    | roja                    | rojos                   | rojas                  | red      |
+| morado                  | morada                  | morados                 | moradas                | purple   |
+| amarillo                | amarilla                | amarillos               | amarillas              | yellow   |
+| azul                    | azul                    | azules                  | azules                 | blue     |
+| verde                   | verde                   | verdes                  | verdes                 | green    |
+| marrón                  | marrón                  | marrónes                | marrónes               | brown    |
+| gris                    | gris                    | grises                  | grises                 | grey     |
+| naranja                 | naranja                 | naranja                 | naranja                | orange   |
+| rosa                    | rosa                    | rosa                    | rosa                   | pink     |
+
+A lot of the colours follow the same pattern:
+
+### Singular nouns
+
+**Masculine noun (singular)**  
+The colour ends in o.
+
+- un jersey rojo - a red jumper
+
+**Feminine noun (singular)**  
+The colour ends in a.
+
+- una falda roja - a red skirt
+
+### Plural nouns
+
+![Image](/static/8b.png)
+
+As well as an o or a, the colour has an s at the end:
+
+**Masculine (plural)**  
+- dos jerseys rojos - two red jumpers
+
+**Feminine (plural)**  
+- dos faldas rojas - two red skirts
+
+You might have noticed that not all colours follow the patterns above. These are called 'irregular' adjectives.
+
+Some colours only change spelling when they are plural, and a few don't change at all.
+
+Examples:
+
+- **azul** only changes for plural
+  - un vestido azul - a blue dress
+  - una falda azul - a blue skirt
+  - unos zapatos azules - blue shoes
+
+- **naranja** never changes
+  - un vestido naranja - an orange dress
+  - una falda naranja - an orange skirt
+  - unos zapatos naranja - orange shoes
+
+![Image](/static/8c.png)

@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "'15' is:",
+      "options": ["Cinco", "Catorce", "Quince"],
+      "answer": "Quince"
+    },
+    {
+      "question": "'I am nine years old' is:",
+      "options": ["Soy nueve años", "Tengo nueve años", "Me nueve años"],
+      "answer": "Tengo nueve años"
+    },
+    {
+      "question": "'2 + 3 = 5' is:",
+      "options": [
+        "Dos dividido por tres es igual a cinco",
+        "Dos más tres es igual a cinco",
+        "Dos menos tres es igual a cinco"
+      ],
+      "answer": "Dos más tres es igual a cinco"
+    },
+    {
+      "question": "'El primero' means:",
+      "options": ["The third", "The first", "The second"],
+      "answer": "The first"
+    }
+  ]
+}

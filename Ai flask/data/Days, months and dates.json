@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "How do you say 'today' in Spanish?",
+      "options": ["Mañana", "Lunes", "Hoy"],
+      "answer": "Hoy"
+    },
+    {
+      "question": "How do you say 'January' in Spanish?",
+      "options": ["Junio", "Enero", "Julio"],
+      "answer": "Enero"
+    },
+    {
+      "question": "What does 'Hoy es sábado' mean in English?",
+      "options": ["Today is Saturday", "Today is Sunday", "Today is Thursday"],
+      "answer": "Today is Saturday"
+    },
+    {
+      "question": "How would you say 'the 5th of August' in Spanish?",
+      "options": [
+        "El cuatro de abril",
+        "El quince de octubre",
+        "El cinco de agosto"
+      ],
+      "answer": "El cinco de agosto"
+    }
+  ]
+}

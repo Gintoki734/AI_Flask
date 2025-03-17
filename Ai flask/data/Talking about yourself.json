@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "How would you say 'I am from Scotland'?",
+      "options": ["Vivo en Escocia", "Soy en Escocia", "Soy de Escocia"],
+      "answer": "Soy de Escocia"
+    },
+    {
+      "question": "'¿De dónde eres?' means:",
+      "options": [
+        "Where are you?",
+        "Where are you going?",
+        "Where are you from?"
+      ],
+      "answer": "Where are you from?"
+    },
+    {
+      "question": "'Me llamo...' means:",
+      "options": ["I am called...", "I am...years old", "I live in..."],
+      "answer": "I am called..."
+    },
+    {
+      "question": "'Vivo en...' means:",
+      "options": ["I am...years old", "I live in...", "I am from..."],
+      "answer": "I live in..."
+    }
+  ]
+}
